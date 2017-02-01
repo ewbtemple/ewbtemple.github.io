@@ -28,6 +28,7 @@ img {
   vertical-align: middle;
   height: auto;
   width: 100%;
+  margin: auto;
 }
 
 /* Typography
@@ -174,7 +175,7 @@ hr {
 /* navigation styles
 /* ========================================== */
 .custom-navbar {
-    background-image: #ffffff;
+    background: #000000;
     border: none;
     margin-bottom: 0;
     text-align: center;
@@ -189,7 +190,7 @@ hr {
 }
 
 .custom-navbar .navbar-brand .navbar-toggle {
-    background-image:#fff;
+    background: #ffa400;
      padding: 4px 6px;
     font-size: 16px;
     color: #fff;
@@ -240,10 +241,8 @@ hr {
 
     .custom-navbar.top-nav-collapse {
        padding: 16px;
-background: #163061;
-width: 100;
-height: auto;
- border-bottom: 0;
+      background: #000000;
+      border-bottom: 0;
     }
 }
 
@@ -251,7 +250,7 @@ height: auto;
 
    .custom-navbar .nav li.active > a {
         border-bottom: 2px solid transparent !important;
-        color: #163061;
+        color: #ffa400;
     }
 
 }
