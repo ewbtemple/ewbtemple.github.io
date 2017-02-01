@@ -15,8 +15,9 @@
 }
 
 #mc_embed_signup input {
-	border: 1px solid #999;
+	border: 0px solid #999;
 	-webkit-appearance: none;
+	text-align: center;
 }
 
 #mc_embed_signup input[type=checkbox] {
@@ -43,7 +44,7 @@
 	font-size: 15px;
 	height: 32px;
 	line-height: 32px;
-	margin: 0 5px 10px 0;
+	margin: 5 5px 5px 0;
 	padding: 0;
 	text-align: center;
 	text-decoration: none;
@@ -80,14 +81,14 @@
 #mc_embed_signup input.email {
 	font-size: 12px;
 	display: block;
-	padding: 0 0.4em;
-	margin: 0 4% 10px 0;
+	padding: 0 0;
+	margin: 0 0 10px 0;
 	min-height: 32px;
 	width: 58%;
 	min-width: 130px;
-	-webkit-border-radius: 3px;
-	-moz-border-radius: 3px;
-	border-radius: 3px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	border-radius: 0px;
 }
 
 #mc_embed_signup input.button {
