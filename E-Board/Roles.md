@@ -29,7 +29,7 @@ We look forward to seeing your applications!
 * Responsible for coordinating with other E-Board Members 
 * Delegating responsibility thoughout the project team
 
-##Local Project Lead: 
+## Local Project Lead: 
 * Work with Event Coordinators to promote community service and events at Temple 
 * Responsible for Delegating roles among the Local Project Team
 * In charge of determining the direction of the Local Projects
